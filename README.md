@@ -18,6 +18,12 @@ The model uses the following input features to predict the median house value:
 - `population`: Population of the region.
 
 
+### Prerequisites
 
+- Python 3.x
+- Required libraries: `pandas`, `numpy`, `scikit-learn`
+
+#Dataset
+The dataset used for this project is from the California Housing Prices dataset on Kaggle.
 
 
